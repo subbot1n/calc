@@ -20,4 +20,3 @@ console.log(('multi',1,3));
 console.log(calc('no',9,12));
 console.log(calc(9,12));
 console.log(calc('sum',3,));
-console.log(calc('sum', "11", 2));
